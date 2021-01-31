@@ -1,9 +1,7 @@
 # PDCurses
 
 This is a Visual Studio 2019 project version of PDCurses ([website](https://pdcurses.org/)/[GitHub repo](https://github.com/wmcbrine/PDCurses)). 
-I created it from the original PDCurses sources as retrieved from the PDCurses HitHub repo, to be able to properly debug an issue I ran into when trying to use PDCurses to marginally 
-improve the college-time hobby project that is [R136](https://github.com/rbergen/R136). As it yielded a working version of PDCurses in the Visual Studio 2019 context that's familiar 
-to many, I decided to create a repo for it, as well.
+I created it from the original PDCurses sources as retrieved from the PDCurses GitHub repo, to be able to properly debug an issue I ran into when trying to use PDCurses to marginally improve the college-time hobby project that is [R136](https://github.com/rbergen/R136). As it yielded a working version of PDCurses in the Visual Studio 2019 context that's familiar to many, I decided to create a repo for it, as well.
 
 ## Version
 
