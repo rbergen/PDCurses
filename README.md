@@ -20,3 +20,5 @@ Furthermore, changes were made to the VS 2019 project property defaults to make 
 ## Credits
 
 All credits go to the original PDCurses authors/maintainers.
+
+_- Rutger van Bergen - [github.com/rbergen](https://github.com/rbergen)_
